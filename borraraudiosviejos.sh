@@ -3,7 +3,7 @@
 ### Jose Richard Alvarez Saturne                                                           ##
 ### borrar archivos viejos mayor a 40 dias de grabaciones de freepbx                       ##
 ### +595 981 870 046                                                                       ##
-### richi24@gmail.com			                                                                 ##
+### richi24@gmail.com                                                                      ##
 #############################################################################################
 oldtime=`date +%Y --date='-1 year'`;
 time=`date +%Y`;
